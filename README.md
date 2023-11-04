@@ -1,7 +1,7 @@
 
 # WHAT DOES IT DO
 
-A simple RUST adaptation of blockchain technology. The `main.rs` instance creates a genesis block, then adds 4 more blocks to the chain. If there is a mismatch in the chains it throws panic! Finally, it prints all blocks to the screen
+A simple RUST impl. of blockchain technology. The `main.rs` instance creates a genesis block, then adds 4 more blocks to the chain. If there is a mismatch in the chains it throws panic! Finally, it prints all blocks to the screen
 
 ![IMGS](images/image.png)
 
